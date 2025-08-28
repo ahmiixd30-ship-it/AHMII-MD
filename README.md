@@ -1,8 +1,8 @@
-<img src="https://files.catbox.moe/3wnq1g.jpg.gif" height="90" width="100%">
+i<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 -----------
 
-![Image](https://github.com/user-attachments/assets/https://files.catbox.moe/3wnq1g.jpg)
+![Image](https://github.com/user-attachments/assets/https://i.imgur.com/dBaSKWF.gif")
 
 -----------
 -----------
@@ -74,7 +74,7 @@ https://github.com/ahmiixd30-ship-it
 ----------
 
 <p align="center">
-<a href='https://pair-dark-silence.onrender.com' target="_blank">
+<a href='in pending' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
